@@ -1,8 +1,7 @@
 # 🔐 SecureDocs — Sistema de Gestión de Documentos Empresariales
 
 > Laboratorio 06 — Seguridad en Cloud Computing  
-> Curso: Desarrollo de Soluciones en la Nube | TECSUP 2026  
-> Repositorio: https://github.com/gllanos09/Lab06_Nube
+> Curso: Desarrollo de Soluciones en la Nube | TECSUP 2026
 
 ---
 
